@@ -213,7 +213,7 @@ npm run format:check
 ## API collection and ERD
 
 - Postman collection: `postman-collection/`
-- ER diagram: `ERD-OpenJob-versi-2.png`
+- ER diagram: [ERD-OpenJob-versi-2.png](./ERD-OpenJob-versi-2.png)
 
 These assets provide a practical reference for request payloads and the database model used by the application.
 
